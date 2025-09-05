@@ -1,0 +1,7 @@
+XYZ_env/
+*.dxf
+XYZ_env/
+*.pyc
+__pycache__/
+*.dxf
+*.tmp
